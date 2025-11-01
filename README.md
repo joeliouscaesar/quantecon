@@ -1,0 +1,1 @@
+Repository with my attempts at QuantEcon exercises.
